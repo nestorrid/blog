@@ -30,7 +30,10 @@ github:
   username: nestorrid # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: nestorrid # change to your twitter username
+
+weibo:
+  username: Nestor是条产品狗
 
 social:
   # Change to your full name.
@@ -185,6 +188,7 @@ exclude:
   - LICENSE
   - rollup.config.js
   - package*.json
+  - "*.py"
 
 jekyll-archives:
   enabled: [categories, tags]

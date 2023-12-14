@@ -19,7 +19,7 @@
     "watch": "npx rollup -c --bundleConfigAsCjs -w",
     "test": "npx stylelint _sass/**/*.scss",
     "fixlint": "npm run test -- --fix",
-    "serve": "bundle exec jekyll s --incremental"
+    "serve": "bundle exec jekyll s"
   },
   "devDependencies": {
     "@babel/core": "^7.23.5",
